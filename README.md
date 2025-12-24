@@ -36,8 +36,8 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MeowUHQ&show_icons=true&count_private=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeowUHQ&layout=compact&theme=dracula)
+![Followers](https://img.shields.io/github/followers/MeowUHQ?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MeowUHQ?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge)
 
 ###
