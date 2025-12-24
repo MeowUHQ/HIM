@@ -36,8 +36,12 @@
 
 ###
 
-![Followers](https://img.shields.io/github/followers/MeowUHQ?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MeowUHQ?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge)
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeowUHQ&theme=dracula)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeowUHQ&theme=dracula)
+
+</div>
 
 ###
