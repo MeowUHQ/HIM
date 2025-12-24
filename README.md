@@ -5,30 +5,17 @@
 ###
 
 <p align="left">
-Développeur passionné, je construis des projets orientés performance, sécurité et optimisation.  
-J’aime comprendre comment les choses fonctionnent en profondeur et transformer des idées en solutions concrètes.
+• Développeur orienté performance  
+• Code propre et structuré  
+• Projets système et web  
+• Sécurité et optimisation logicielle  
+• Apprentissage continu et rigueur  
+• Passionné par le low-level
 </p>
 
 ###
 
-<h2 align="left">À propos de moi</h2>
-
-###
-
-<p align="left">
-Je fais du développement depuis plusieurs années, aussi bien côté système que web.  
-Je travaille régulièrement sur des outils personnalisés, des applications desktop, des backends et des interfaces modernes.  
-Mon objectif est simple : écrire du code propre, efficace et maintenable.
-</p>
-
-<p align="left">
-Je m’intéresse particulièrement à l’architecture logicielle, à la sécurité, et à l’automatisation.  
-Chaque projet est pour moi une occasion d’apprendre et d’aller plus loin techniquement.
-</p>
-
-###
-
-<h2 align="left">Technologies que j’utilise</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
