@@ -53,10 +53,3 @@ Chaque projet est pour moi une occasion d’apprendre et d’aller plus loin tec
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeowUHQ&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=MeowUHQ&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" />
-</div>
-
-###
