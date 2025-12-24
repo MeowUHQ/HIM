@@ -1,50 +1,62 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=MeowDev&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=MeowDev&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&theme=tokyonight" />
 </div>
 
 ###
 
-<p align="left">TEXT</p>
+<p align="left">
+Développeur passionné, je construis des projets orientés performance, sécurité et optimisation.  
+J’aime comprendre comment les choses fonctionnent en profondeur et transformer des idées en solutions concrètes.
+</p>
 
 ###
 
-<h2 align="left">TEXT</h2>
+<h2 align="left">À propos de moi</h2>
 
 ###
 
-<p align="left">TEXT</p>
+<p align="left">
+Je fais du développement depuis plusieurs années, aussi bien côté système que web.  
+Je travaille régulièrement sur des outils personnalisés, des applications desktop, des backends et des interfaces modernes.  
+Mon objectif est simple : écrire du code propre, efficace et maintenable.
+</p>
+
+<p align="left">
+Je m’intéresse particulièrement à l’architecture logicielle, à la sécurité, et à l’automatisation.  
+Chaque projet est pour moi une occasion d’apprendre et d’aller plus loin techniquement.
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies que j’utilise</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MeowUHQ.MeowUHQ&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MeowUHQ.MeowUHQ" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeowUHQ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MeowUHQ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeowUHQ&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=MeowUHQ&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ###
