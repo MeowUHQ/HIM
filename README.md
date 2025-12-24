@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeowUHQ&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MeowUHQ&theme=dracula&row=1&column=6)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeowUHQ&theme=dracula)
 
