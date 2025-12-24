@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">• Développeur orienté et intruit  <br>• Code propre et structuré  <br>• Projets système et web  <br>• Sécurité et optimisation logicielle  <br>• Apprentissage continu et rigueur  <br>• Passionné par le low-level</p>
+<p align="left">• Développeur orienté et instruit  <br>• Code propre et structuré  <br>• Projets système et web  <br>• Sécurité et optimisation logicielle  <br>• Apprentissage continu et rigueur  <br>• Passionné par le low-level</p>
 
 ###
 
