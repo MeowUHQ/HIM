@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">• Développeur orienté performance  <br>• Code propre et structuré  <br>• Projets système et web  <br>• Sécurité et optimisation logicielle  <br>• Apprentissage continu et rigueur  <br>• Passionné par le low-level</p>
+<p align="left">• Développeur orienté et intruit  <br>• Code propre et structuré  <br>• Projets système et web  <br>• Sécurité et optimisation logicielle  <br>• Apprentissage continu et rigueur  <br>• Passionné par le low-level</p>
 
 ###
 
@@ -37,8 +37,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeowUHQ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeowUHQ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=MeowUHQ&show_icons=true&count_private=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeowUHQ&layout=compact&theme=dracula)
+
 </div>
 
 ###
