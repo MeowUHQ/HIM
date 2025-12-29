@@ -36,9 +36,15 @@
 
 ###
 
-<div align="center">
+```
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+```
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
+</p>
+
+<div align="center">
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeowUHQ&theme=dracula)
 
